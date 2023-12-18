@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "2F4B2B07-9FC2-4BD0-99B6-71B9AFE13446",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "DataHandlerKitTests",
+        "name" : "DataHandlerKitTests"
+      }
+    }
+  ],
+  "version" : 1
+}
